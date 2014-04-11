@@ -1,0 +1,22 @@
+.connexion{
+	width: 30%;
+	margin-left: 35%;
+	margin-top: 150px;
+}
+.div-formulaire{
+	width:95%;
+}
+.panel-title{
+	text-align: center;
+}
+.form-control{
+	margin-top: 5px;
+}
+.logo-docapost{
+	width: 20%;
+	height: auto;
+	position: absolute;
+	right:0;
+	bottom: 20px;
+	
+}
